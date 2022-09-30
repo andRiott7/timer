@@ -7,6 +7,7 @@ export const HomeContainer = styled.main`
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  max-width: 90%;
   form {
     display: flex;
     flex-direction: column;
