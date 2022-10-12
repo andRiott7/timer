@@ -10,5 +10,8 @@
     {
       "usePrettierrc": false
     }
-  ]
+  ],
+  "rules": {
+    "no-unused-vars": "off"
+  }
 }
